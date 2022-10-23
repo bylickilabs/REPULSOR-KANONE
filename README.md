@@ -16,6 +16,6 @@ Dedicator erkennt an, dass das Werk, sobald es öffentlich zugänglich gemacht w
 - III. Bedingungen und Einschränkungen
 Das Werk ist „WIE BESEHEN“ lizenziert. Sie tragen das Risiko der Nutzung. Der Lizenzgeber gibt keine ausdrücklichen Gewährleistungen, Garantien oder Bedingungen. Möglicherweise haben Sie gemäß Ihren örtlichen Gesetzen zusätzliche Verbraucherrechte, die diese Lizenz nicht ändern kann. Soweit nach Ihren örtlichen Gesetzen zulässig, schließt der Lizenzgeber die stillschweigenden Gewährleistungen der Marktgängigkeit, Eignung für einen bestimmten Zweck und Nichtverletzung von Rechten Dritter aus.
 --
-- IIII. Das Werk wird nur zu Bildungszwecken veröffentlicht, mit der Absicht, dabei zu helfen, eine „Hacker Defense“-Einstellung zu entwickeln.
+- IV. Das Werk wird nur zu Bildungszwecken veröffentlicht, mit der Absicht, dabei zu helfen, eine „Hacker Defense“-Einstellung zu entwickeln.
 --
 - V. Unter keinen Umständen ist der Lizenzgeber für die Aktivitäten oder Verfehlungen des Lizenznehmers verantwortlich.
