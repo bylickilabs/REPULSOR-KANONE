@@ -1,7 +1,8 @@
 # REPULSOR-KANONE
  Wenn alle anderen Waffen versagen
 # EULA
-1. Parteien und Geltungsbereich
+-------
+- 1. Parteien und Geltungsbereich
 Diese Vereinbarung (oder „Lizenz“) wird zwischen zwei Parteien geschlossen: Projektautoren und Mitwirkende – hierin „wir“, „uns“, „Lizenzgeber“; und der Endnutzer – hier „Sie“, „Lizenznehmer“.
 Diese Vereinbarung regelt die Nutzung der begleitenden Software (das „Werk“). Wenn Sie die Software verwenden, akzeptieren Sie diese Lizenz. Wenn Sie die Lizenz ablehnen, verwenden Sie die Software nicht.
 Sie dürfen diese Software nicht für illegale oder unethische Zwecke verwenden; einschließlich Aktivitäten, die zu einer straf- oder zivilrechtlichen Haftung führen würden.
